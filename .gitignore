@@ -1,2 +1,5 @@
-kaggle/**
-!**/models/*
+kaggle/*
+!kaggle/temp*/
+
+kaggle/temp*/*
+!kaggle/temp*/models/
