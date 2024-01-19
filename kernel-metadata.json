@@ -1,0 +1,15 @@
+{
+  "id": "redr0b0t/kagglehms",
+  "title": "Ikagglehms",
+  "code_file": "./sub.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": "hms-harmful-brain-activity-classification",
+  "kernel_sources": [],
+  "model_sources": []
+}
