@@ -1,5 +1,11 @@
-kaggle/*
-!kaggle/temp*/
+google-cloud-sdk/
 
-kaggle/temp*/*
-!kaggle/temp*/models/
+kaggle/*
+# !kaggle/temp*/
+
+# kaggle/temp*/*
+# !kaggle/temp*/models/
+
+
+
+# gsutil cp -r /home/uc4ddc6536e59d9d8f8f5069efdb4e25/kaggle_hms/kaggle/temp1/models gs://kaggle_hms/models/
