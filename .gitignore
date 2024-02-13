@@ -8,7 +8,4 @@ kaggle/*
 
 
 
-# gsutil -m cp -r /home/uc4ddc6536e59d9d8f8f5069efdb4e25/kaggle_hms/kaggle/temp1/models gs://kaggle_hms/models/
-# git mr -r -f --cached ./
-# git reset 
-# git log
+# gsutil cp -r /home/uc4ddc6536e59d9d8f8f5069efdb4e25/kaggle_hms/kaggle/temp1/models gs://kaggle_hms/models/
